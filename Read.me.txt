@@ -1,0 +1,8 @@
+Link no Git
+https://github.com/Saitondasilva/ProjetoFinal
+
+Front-end deve dar o npm intall 
+para rodar utilizar o 
+ * npm run dev
+No back-end
+* node serve.js
