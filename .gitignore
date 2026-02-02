@@ -1,0 +1,37 @@
+# Ignorar node_modules dentro da pasta Vue_front
+/Vue-front/node_modules/
+/Node-back/node_modules/
+
+# Outros node_modules permanecem intactos
+# node_modules
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+.DS_Store
+dist
+dist-ssr
+coverage
+*.local
+
+/cypress/videos/
+ /cypress/screenshots/
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+*.tsbuildinfo
+.vercel
