@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "69789f28116d26d78f2a6e07"
+  },
+  "nome": "João Silva",
+  "email": "joao@exemplo.com",
+  "palavraPasse": "$2b$10$6EJ5J9HBRCR/ZdQz9d5PxutrHEtW2tH9umG9TzKtKW5eTXqcA89sC",
+  "tipo": "docente",
+  "departamento": "Engenharia",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6978ae13116d26d78f2a6e0e"
+  },
+  "nome": "Francisco Silva",
+  "email": "Francisco@exemplo.com",
+  "palavraPasse": "$2b$10$tZo8K4tvTkqzpJJDcoGtYuxPLVd9k2ekWlaeZUteyMym6DjMppgHa",
+  "tipo": "aluno",
+  "numeroEstudante": "1234",
+  "departamento": "Engenharia",
+  "curso": "Engenharia Informática",
+  "__v": 0
+}]

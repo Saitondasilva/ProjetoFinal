@@ -1,0 +1,98 @@
+[{
+  "_id": {
+    "$oid": "697ca7da1bd6efc78d2e82a2"
+  },
+  "titulo": "Sistema de Gestão de Estágios",
+  "descricao": "Desenvolver um sistema para gerir estágios de alunos",
+  "estado": "ativa",
+  "palavras_chave": [
+    "sistema",
+    "estágio",
+    "gestão"
+  ],
+  "criador": {
+    "$oid": "69789f28116d26d78f2a6e07"
+  },
+  "orientadores": [
+    {
+      "docente": {
+        "$oid": "69789f28116d26d78f2a6e07"
+      },
+      "tipo": "orientador principal",
+      "_id": {
+        "$oid": "697ca7da1bd6efc78d2e82a3"
+      }
+    },
+    {
+      "docente": {
+        "$oid": "69789f28116d26d78f2a6e07"
+      },
+      "tipo": "coorientador",
+      "_id": {
+        "$oid": "697ca7da1bd6efc78d2e82a4"
+      }
+    }
+  ],
+  "data_criacao": {
+    "$date": "2026-01-30T12:45:14.921Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "697cac401bd6efc78d2e82f3"
+  },
+  "titulo": "fddfcxccvcv",
+  "descricao": "sddsfdsdsfdsf",
+  "estado": "ativa",
+  "palavras_chave": [
+    "dsdsdsfds"
+  ],
+  "criador": {
+    "$oid": "69789f28116d26d78f2a6e07"
+  },
+  "orientadores": [
+    {
+      "docente": {
+        "$oid": "69789f28116d26d78f2a6e07"
+      },
+      "tipo": "orientador principal",
+      "_id": {
+        "$oid": "697cac401bd6efc78d2e82f4"
+      }
+    }
+  ],
+  "data_criacao": {
+    "$date": "2026-01-30T13:04:00.215Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69806885121f0b5b00ddff7c"
+  },
+  "titulo": "teste3",
+  "descricao": "esss aksmsnknsk,cjcxm",
+  "estado": "ativa",
+  "palavras_chave": [
+    "teste2"
+  ],
+  "criador": {
+    "$oid": "69789f28116d26d78f2a6e07"
+  },
+  "orientadores": [
+    {
+      "docente": {
+        "$oid": "69789f28116d26d78f2a6e07"
+      },
+      "tipo": "orientador principal",
+      "_id": {
+        "$oid": "69806894121f0b5b00ddff8a"
+      }
+    }
+  ],
+  "data_criacao": {
+    "$date": "2026-02-02T09:04:05.856Z"
+  },
+  "__v": 1
+}]

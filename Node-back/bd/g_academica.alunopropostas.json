@@ -1,0 +1,128 @@
+[{
+  "_id": {
+    "$oid": "697c7d95f3e2a56dd0e0fd98"
+  },
+  "proposta": {
+    "$oid": "6978b35f6beeb7a452f4d18c"
+  },
+  "aluno": {
+    "$oid": "6978ae13116d26d78f2a6e0e"
+  },
+  "estado": "pendente",
+  "data_candidatura": {
+    "$date": "2026-01-30T09:44:53.306Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "697c7daaf3e2a56dd0e0fda8"
+  },
+  "proposta": {
+    "$oid": "697a43b1e3350cbd41894ed1"
+  },
+  "aluno": {
+    "$oid": "6978ae13116d26d78f2a6e0e"
+  },
+  "estado": "aceite",
+  "data_candidatura": {
+    "$date": "2026-01-30T09:45:14.040Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "697c80edf3e2a56dd0e0fe0a"
+  },
+  "proposta": {
+    "$oid": "697b805212e6618e9d175a28"
+  },
+  "aluno": {
+    "$oid": "6978ae13116d26d78f2a6e0e"
+  },
+  "estado": "aceite",
+  "data_candidatura": {
+    "$date": "2026-01-30T09:59:09.093Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "697ca0cc1bd6efc78d2e8133"
+  },
+  "proposta": {
+    "$oid": "697b4bf812e6618e9d1758aa"
+  },
+  "aluno": {
+    "$oid": "6978ae13116d26d78f2a6e0e"
+  },
+  "estado": "pendente",
+  "data_candidatura": {
+    "$date": "2026-01-30T12:15:08.456Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "697e222646ada186e464161a"
+  },
+  "proposta": {
+    "$oid": "697caafd1bd6efc78d2e82d7"
+  },
+  "aluno": {
+    "$oid": "6978ae13116d26d78f2a6e0e"
+  },
+  "estado": "pendente",
+  "data_candidatura": {
+    "$date": "2026-01-31T15:39:18.846Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698068cd121f0b5b00ddffac"
+  },
+  "proposta": {
+    "$oid": "697ca7da1bd6efc78d2e82a2"
+  },
+  "aluno": {
+    "$oid": "6978ae13116d26d78f2a6e0e"
+  },
+  "estado": "aceite",
+  "data_candidatura": {
+    "$date": "2026-02-02T09:05:17.031Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698068d2121f0b5b00ddffb7"
+  },
+  "proposta": {
+    "$oid": "697cac401bd6efc78d2e82f3"
+  },
+  "aluno": {
+    "$oid": "6978ae13116d26d78f2a6e0e"
+  },
+  "estado": "aceite",
+  "data_candidatura": {
+    "$date": "2026-02-02T09:05:22.508Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698068d5121f0b5b00ddffc2"
+  },
+  "proposta": {
+    "$oid": "69806885121f0b5b00ddff7c"
+  },
+  "aluno": {
+    "$oid": "6978ae13116d26d78f2a6e0e"
+  },
+  "estado": "aceite",
+  "data_candidatura": {
+    "$date": "2026-02-02T09:05:25.678Z"
+  },
+  "__v": 0
+}]
